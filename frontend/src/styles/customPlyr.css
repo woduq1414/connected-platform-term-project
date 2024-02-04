@@ -1,0 +1,75 @@
+:root {
+    --plyr-color-main: #BB2649;
+    --plyr-captions-background: transparent;
+    --plyr-captions-text: #fff;
+    --plyr-control-icon-size: 30px;
+}
+
+.plyr__captions {
+    font-size: 2.7rem;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.plyr__controls {
+    display: flex;
+    flex-direction: column;
+}
+
+.plyr__progress__container {
+    width: 100%;
+}
+
+.plyr__bottomControl {
+    margin-top: 0.4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.plyr__bottomLeftControl, .plyr__bottomRightControl {
+    display: flex;
+    flex-direction: row;
+}
+
+.plyr__bottomRightControl>div, .plyr__bottomRightControl>button {
+    /* margin-left: 1rem; */
+    margin-left: 0.5rem !important;
+    margin-right: 0 !important;
+}
+
+.plyr__bottomLeftControl>div, .plyr__bottomLeftControl>button {
+    /* margin-left: 1rem; */
+    margin-right: 1rem !important;
+    margin-left: 0 !important;
+}
+
+.plyr__topControl {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+.plyr__durationLabel {
+    display: flex;
+    margin-left: 1rem;
+}
+
+textarea {
+    overflow-y: hidden;
+}
+
+div::-webkit-scrollbar {
+    width: .4em;
+}
+
+div::-webkit-scrollbar,
+div::-webkit-scrollbar-thumb {
+    overflow: visible;
+    border-radius: 4px;
+}
+
+div::-webkit-scrollbar-thumb {
+    background: #b3b3b3;
+}
