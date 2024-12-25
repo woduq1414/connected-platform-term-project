@@ -2,7 +2,7 @@
 
 Gotcha - 그룹 워칭을 지원하는 OTT 서비스
 
-![image](https://github.com/user-attachments/assets/6741543d-275d-4a09-8489-008a82f77d51)
+![image](https://github.com/user-attachments/assets/b823592f-0982-4532-a36e-433e8eb213c9)
 ![image](https://github.com/user-attachments/assets/e9063918-bbf7-4033-b6a2-3068d89dc39f)
 ![image](https://github.com/user-attachments/assets/c3cfd46f-467f-4e2e-9939-cbd3938047b3)
 ![image](https://github.com/user-attachments/assets/400cfa81-d886-42bf-b0ef-558fdabe4f06)
