@@ -1,5 +1,19 @@
 # 커넥티드 플랫폼 이론과 실제 Term Project
 
+Gotcha - 그룹 워칭을 지원하는 OTT 서비스
+
+![image](https://github.com/user-attachments/assets/e9063918-bbf7-4033-b6a2-3068d89dc39f)
+![image](https://github.com/user-attachments/assets/6741543d-275d-4a09-8489-008a82f77d51)
+![image](https://github.com/user-attachments/assets/b5e8d612-7192-4f26-9ab4-04f48d271091)
+![image](https://github.com/user-attachments/assets/84e14ac4-479f-4c02-8b5a-c71a2e079b18)
+![image](https://github.com/user-attachments/assets/c3cfd46f-467f-4e2e-9939-cbd3938047b3)
+![image](https://github.com/user-attachments/assets/400cfa81-d886-42bf-b0ef-558fdabe4f06)
+![image](https://github.com/user-attachments/assets/2a21ccb6-f5b3-48bb-8629-f539c27e9390)
+![image](https://github.com/user-attachments/assets/c3ee2f7d-7b78-4b14-80e1-4290cf119194)
+![image](https://github.com/user-attachments/assets/377273fa-ed73-4207-b338-e2ba6de971b2)
+![image](https://github.com/user-attachments/assets/aabce392-992d-4544-8c58-d07ae42fa5a7)
+
+
 ## Role
 - 김이주: 프론트, 백
 - 이주연: 백
